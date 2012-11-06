@@ -103,4 +103,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.mdpcomp.logs=0 \
     debug.sf.hw=1 \
     dev.pm.dyn_samplingrate=1 \
-    ro.opengles.version=131072
+    ro.opengles.version=131072 \
+    lpa.decode=false \
+    lpa.use-stagefright=true
