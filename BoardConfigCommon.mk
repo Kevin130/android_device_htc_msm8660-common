@@ -89,3 +89,4 @@ WIFI_DRIVER_FW_PATH_PARAM        := "/sys/module/bcmdhd/parameters/firmware_path
 # Webkit
 ENABLE_WEBGL := true
 TARGET_FORCE_CPU_UPLOAD := true
+DYNAMIC_SHARED_LIBV8SO := true
